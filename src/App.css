@@ -37,7 +37,11 @@
   }
 }
 
-.form{
-  width: 400px;
-  border: 1px solid gray;
-}
+/* .form1{
+  border: none;
+  width: 350px;
+  padding: 10px 10px 1px 10px;
+  margin: 15vh auto;
+  border-radius: 5px;
+  box-shadow: rgba(60, 66, 87, 0.12) 0px 0px 14px 0px, rgba(0, 0, 0, 0.12) 0px 3px 6px 0px;
+} */
